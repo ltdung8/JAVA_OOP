@@ -6,5 +6,6 @@ public class Constants {
         System.out.println("");
         System.out.println("finally");
         System.out.println("qua met roi, di ngu thoi");
+        System.out.println("git add . : add toan bo file thay doi");
     }
 }
